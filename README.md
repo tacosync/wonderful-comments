@@ -15,5 +15,5 @@
 
 ### 新聞來源
 
-* 2019-08-13 [財金雙首長信心喊話：台股基本面不錯、動能仍在](https://www.moneydj.com/KMDJ/News/NewsViewer.aspx?a=b7810678-3bb5-4008-ac4f-1eeccc2d3078) - ＭoneyDJ 理財網
+* 2020-03-17 [財金雙首長信心喊話：台股基本面不錯、動能仍在](https://www.moneydj.com/KMDJ/News/NewsViewer.aspx?a=b7810678-3bb5-4008-ac4f-1eeccc2d3078) - ＭoneyDJ 理財網
 * 2019-08-13 [台股尾盤跌逾百點 金管會說因為這四件事](https://money.udn.com/money/story/5607/3986797) - 經濟日報
