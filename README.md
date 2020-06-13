@@ -15,5 +15,6 @@
 
 ### 新聞來源
 
+* 2020-06-11 [取消禁空令台股下跌 黃天牧喊話：不要只看一二天](https://money.udn.com/money/story/5613/4628922) - 經濟日報
 * 2020-03-17 [財金雙首長信心喊話：台股基本面不錯、動能仍在](https://www.moneydj.com/KMDJ/News/NewsViewer.aspx?a=b7810678-3bb5-4008-ac4f-1eeccc2d3078) - ＭoneyDJ 理財網
 * 2019-08-13 [台股尾盤跌逾百點 金管會說因為這四件事](https://money.udn.com/money/story/5607/3986797) - 經濟日報
